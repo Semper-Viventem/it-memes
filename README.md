@@ -1,3 +1,3 @@
-# Open-source mems about IT 
+# Open-source memes about IT 
 
 * Recruiters: https://github.com/Semper-Viventem/it-mems/blob/master/recruiter.md
